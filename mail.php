@@ -46,7 +46,7 @@
 <body>
 <center>
 	<h1>MASS MAIL GRABBER FROM DATABASE</h1>
-	<h3>Coded By: <a href="https://facebook.com/justakazh">Akazh ID</a></h3>
+	<h3>Coded By: <a href="https://facebook.com/slmnidd">SalmanRai</a></h3>
 <form action="" method="POST">
 	<input type="text" name="host" value="localhost" placeholder="HOST"><br>
 	<input type="text" name="user" value="" placeholder="username"><br>
